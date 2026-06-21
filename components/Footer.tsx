@@ -20,7 +20,7 @@ export default function Footer() {
           {/* Links */}
           <div className="flex items-center gap-6 text-sm text-zinc-500">
             <a
-              href="https://rertx.ruanftrix.cn"
+              href="https://chat.rertx.ruanftrix.cn"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"

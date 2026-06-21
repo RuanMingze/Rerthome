@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
           {/* Web Chat Card */}
           <a
-            href="https://rertx.ruanftrix.cn"
+            href="https://chat.rertx.ruanftrix.cn"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative rounded-2xl border border-orange-500/40 bg-gradient-to-b from-orange-500/8 to-surface-elevated p-8 hover:border-orange-500/60 transition-all duration-300 hover:-translate-y-1"

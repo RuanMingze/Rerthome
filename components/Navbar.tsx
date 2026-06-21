@@ -42,7 +42,7 @@ export default function Navbar() {
               模型列表
             </a>
             <a
-              href="https://rertx.ruanftrix.cn"
+              href="https://chat.rertx.ruanftrix.cn"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 rounded-lg bg-orange-600 hover:bg-orange-500 text-white text-sm font-medium transition-colors"

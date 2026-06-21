@@ -310,7 +310,7 @@ for chunk in stream:
         {/* Footer */}
         <div className="p-6 pt-0 flex justify-between items-center">
           <a
-            href="https://rertx.ruanftrix.cn"
+            href="https://chat.rertx.ruanftrix.cn/keys"
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-500 hover:text-orange-400 text-sm transition-colors"
